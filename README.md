@@ -1,4 +1,4 @@
-Hi there, please follow the insctructions on how to run the tests and the answers to objective 4 :) 
+Hi there, please follow the instructions on how to run the tests, as well as the answers to objective 4 :) 
 
 Instructions to run:
 1. Ensure you have Visual Studio(pref 2022) 
